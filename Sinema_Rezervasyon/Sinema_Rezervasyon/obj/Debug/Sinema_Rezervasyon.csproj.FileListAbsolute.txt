@@ -1,0 +1,14 @@
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\bin\Debug\Sinema_Rezervasyon.exe.config
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\bin\Debug\Sinema_Rezervasyon.exe
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\bin\Debug\Sinema_Rezervasyon.pdb
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.csprojAssemblyReference.cache
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.Form1.resources
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.Properties.Resources.resources
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.csproj.GenerateResource.cache
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.exe
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.pdb
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.FilmEkle.resources
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.Admin.resources
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.AraMenu.resources
+C:\Users\bar1s\source\repos\Sinema_Rezervasyon\Sinema_Rezervasyon\obj\Debug\Sinema_Rezervasyon.Bilet.resources
